@@ -1,0 +1,3 @@
+tensorflow>=2.18
+keras>=2.18
+numpy
